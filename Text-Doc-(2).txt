@@ -4,3 +4,6 @@ abcd
 efgh
 
 I am Nishat
+
+enemy1
+enemy2
